@@ -1,9 +1,5 @@
 # ðŸš€ QUANTIS: Advanced GPTQ Quantization Framework
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
-
 **Created by [@Anuj0x](https://github.com/Anuj0x)** - Expert in Programming & Scripting Languages, Deep Learning & State-of-the-Art AI Models, Generative Models & Autoencoders, Advanced Attention Mechanisms & Model Optimization, Multimodal Fusion & Cross-Attention Architectures, Reinforcement Learning & Neural Architecture Search, AI Hardware Acceleration & MLOps, Computer Vision & Image Processing, Data Management & Vector Databases, Agentic LLMs & Prompt Engineering, Forecasting & Time Series Models, Optimization & Algorithmic Techniques, Blockchain & Decentralized Applications, DevOps, Cloud & Cybersecurity, Quantum AI & Circuit Design, and Web Development Frameworks.
 
 A production-ready, high-performance GPTQ (Generative Pre-trained Transformer Quantization) framework designed for modern AI model compression. Features unified architecture support, advanced quantization algorithms, and seamless integration with contemporary ML workflows.
