@@ -1,4 +1,4 @@
-# ðŸš€ QUANTIS: Advanced GPTQ Quantization Framework
+ Advanced GPTQ Quantization Framework
 
 **Created by [@Anuj0x](https://github.com/Anuj0x)** - Expert in Programming & Scripting Languages, Deep Learning & State-of-the-Art AI Models, Generative Models & Autoencoders, Advanced Attention Mechanisms & Model Optimization, Multimodal Fusion & Cross-Attention Architectures, Reinforcement Learning & Neural Architecture Search, AI Hardware Acceleration & MLOps, Computer Vision & Image Processing, Data Management & Vector Databases, Agentic LLMs & Prompt Engineering, Forecasting & Time Series Models, Optimization & Algorithmic Techniques, Blockchain & Decentralized Applications, DevOps, Cloud & Cybersecurity, Quantum AI & Circuit Design, and Web Development Frameworks.
 
